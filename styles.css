@@ -161,7 +161,7 @@ ul button.remove:hover {
 
 @media (max-width: 576px) {
   html {
-    font-size: 62.5%;
+    font-size: 82.5%;
   }
   .container {
     max-width: 90%;
